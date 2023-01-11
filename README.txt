@@ -30,4 +30,4 @@ Change List:
 January 11, 2023
 1) A change in the directory.s file to make this template work with the most recent cc65
 2) A change in the resident.s file to get rid of a line of colored garbage pixels at the bottom of the title screen
-3) A change (thank you karri) to allow the entire game to fit in RAM all at once. This allows the creation of *.o and *.LYX files, along with the usual *.LNX. The "make" routine creates these automatically now. This set up is a requirement for the LYNX development Jams and competitions.
+3) A change (thank you karri) to allow the entire game to fit in RAM all at once. This allows the creation of *.o and *.LYX files, along with the usual *.LNX. The "make" routine creates these automatically now. This setup is a requirement for the LYNX development Jams and competitions.
