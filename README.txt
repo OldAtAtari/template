@@ -7,7 +7,7 @@ Instructions:
 
 In the Linux directory of your choice, do this:
 
-git clone https://bitbucket.org/oldatatari/template/
+git clone https://github.com/oldatatari/template/
 
 Once you have this directory in place, you can use this template as follows:
 
